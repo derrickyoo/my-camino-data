@@ -1,0 +1,4 @@
+Split,Time,Moving Time,Distance,Elevation Gain,Elev Loss,Avg Pace,Avg Moving Paces,Best Pace,Avg Run Cadence,Max Run Cadence,Avg Stride Length,Avg HR,Max HR,Avg Temperature,Calories
+1,08:31:35.773,06:35:01.00,33.43,1055,695,0:15:18  ,0:11:48  ,0:02:43  ,85.9375,248.0,--,106.0,153.0,22.66,2421
+2,00:55:59.994,00:49:32.00,4.04,13,297,0:13:52  ,0:12:16  ,0:08:13  ,100.46875,213.0,--,99.0,124.0,28.48,233
+Summary,09:27:35.770,07:24:35.00,37.46,1068,992,0:15:09  ,0:11:51  ,0:02:43  ,87.359375,248.0,--,106.0,153.0,23.24,2654
